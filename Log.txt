@@ -6,3 +6,4 @@ entry from remote repo
 >>>>>>> fcb87aed720f2e7016926f0e8c39fb25010a35c5
 After Merge Line
 New Line from Remote report after merge
+New Line from Remote report after merge 2
