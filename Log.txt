@@ -1,2 +1,6 @@
+<<<<<<< HEAD
 testing remove merge
 2nd test msg
+=======
+entry from remote repo
+>>>>>>> fcb87aed720f2e7016926f0e8c39fb25010a35c5
